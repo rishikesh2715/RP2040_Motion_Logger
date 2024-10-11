@@ -3537,7 +3537,9 @@
 		)
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -3556,7 +3558,9 @@
 		)
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -3575,7 +3579,9 @@
 		)
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -3594,7 +3600,9 @@
 		)
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -3613,7 +3621,9 @@
 		)
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
 			)
 			(justify left top)
 		)

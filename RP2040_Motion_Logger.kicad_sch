@@ -7203,7 +7203,9 @@
 		)
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -7222,7 +7224,9 @@
 		)
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -7241,7 +7245,9 @@
 		)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -7260,7 +7266,9 @@
 		)
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -7268,8 +7276,8 @@
 	)
 	(text_box "Battery Charging Circuit"
 		(exclude_from_sim no)
-		(at 12.446 14.478 0)
-		(size 101.6 40.132)
+		(at 12.446 12.7 0)
+		(size 101.6 41.91)
 		(stroke
 			(width 0)
 			(type dash)
@@ -7279,7 +7287,9 @@
 		)
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 1.778 1.778)
+				(thickness 0.3)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -7287,8 +7297,8 @@
 	)
 	(text_box "MCU - RP2040"
 		(exclude_from_sim no)
-		(at 115.062 14.478 0)
-		(size 86.868 117.348)
+		(at 115.062 12.7 0)
+		(size 86.868 119.126)
 		(stroke
 			(width 0)
 			(type dash)
@@ -7298,7 +7308,9 @@
 		)
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 1.778 1.778)
+				(thickness 0.3)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -7306,8 +7318,8 @@
 	)
 	(text_box "Decoupling Capacitors"
 		(exclude_from_sim no)
-		(at 202.946 14.478 0)
-		(size 81.534 57.912)
+		(at 202.946 12.7 0)
+		(size 81.534 59.69)
 		(stroke
 			(width 0)
 			(type dash)
@@ -7317,7 +7329,9 @@
 		)
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -7336,7 +7350,9 @@
 		)
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -7355,7 +7371,9 @@
 		)
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 1.778 1.778)
+				(thickness 0.3556)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -15246,7 +15264,7 @@
 		)
 	)
 	(sheet
-		(at 239.776 135.636)
+		(at 238.506 136.906)
 		(size 44.704 25.908)
 		(fields_autoplaced yes)
 		(stroke
@@ -15258,17 +15276,19 @@
 		)
 		(uuid "3b2cd8ba-57ba-4166-8cad-3b34af36adeb")
 		(property "Sheetname" "Sensors & Peripherals"
-			(at 239.776 134.9244 0)
+			(at 238.506 135.9404 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.778 1.778)
+					(thickness 0.3556)
+					(bold yes)
 					(color 0 0 0 1)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Sheetfile" "sensors_peripherals.kicad_sch"
-			(at 239.776 162.1286 0)
+			(at 238.506 163.3986 0)
 			(effects
 				(font
 					(size 1.27 1.27)
