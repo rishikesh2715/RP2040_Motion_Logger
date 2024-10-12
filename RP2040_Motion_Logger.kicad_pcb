@@ -18458,19 +18458,6 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "DNF"
-		(at 192.8114 124.0536 0)
-		(layer "B.SilkS")
-		(uuid "2a202dbf-68a4-4dc2-a10f-9935d8e5abee")
-		(effects
-			(font
-				(size 0.8001 0.8001)
-				(thickness 0.1524)
-				(bold yes)
-			)
-			(justify left bottom mirror)
-		)
-	)
 	(gr_text "25"
 		(at 194.3608 116.9416 -0)
 		(layer "F.SilkS")

@@ -7773,7 +7773,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNF"
+		(property "Value" "10K"
 			(at 36.322 153.67 0)
 			(effects
 				(font
