@@ -1,5 +1,17 @@
 # RP2040 Motion Logger
 
+<p align="center">
+  <img src="./Images/RP2040_Motion_Logger_TOP.png" alt="Image 1" width="45%">
+  <img src="./Images/RP2040_Motion_Logger_Bottom.png" alt="Image 2" width="45%">
+</p>
+
+## Interactive PCB Viewer
+
+You can watch this board interactively on [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Frishikesh2715%2FRP2040_Motion_Logger).
+
+
+
+
 ## Overview
 The RP2040 Motion Logger is a custom microcontroller board based on the RP2040 chip, designed for motion data logging and versatile IoT applications. This compact board (0.9 x 2.48 inches) integrates a wide range of features, making it a powerful tool for projects requiring motion sensing, storage, and connectivity.
 
@@ -17,14 +29,14 @@ The RP2040 Motion Logger is a custom microcontroller board based on the RP2040 c
 - **Additional Features**: Reset and Bootloader buttons, ESD protection, USB Power, Battery Power, and 3.3V Power pins on headers
 
 ### Power Options:
-The RP2040 Motion Logger can be powered either via the USB Type-C connector or a 1S LiPo/Li-ion battery, allowing for flexible deployment options. 
+The RP2040 Motion Logger can be powered either via the USB Type-C connector or a 1S LiPo/Li-ion battery. 
 
 ### Programming Options:
-You can program the board through the USB Type-C connector or the TC2030 JTAG Connector using the SWDIO and SWCLK pins.
+You can program the board through the USB Type-C connector or the TC2030 JTAG Connector.
 
 ## Getting Started
 1. **Power Up**: Connect the board via USB Type-C or connect a 1S LiPo/Li-ion battery.
-2. **Programming**: Use either the USB connection or JTAG connector with an appropriate debugger to flash your code.
+2. **Programming**: Use either the USB connection or JTAG connector with an appropriate debugger to flash your code. (I use VS Code with Raspberry PI PICO Extension)
 3. **Bootloader Mode**: Hold down the Bootloader button while connecting the board to USB to enter bootloader mode.
 4. **Data Logging**: Use the IMU and available storage to log motion data, or extend functionality via UART, I2C, SPI, and ADC pins.
 
@@ -37,6 +49,7 @@ You can program the board through the USB Type-C connector or the TC2030 JTAG Co
 - **Power Pins**: USB Power, Battery Power, 3.3V Power
 
 ## PCBWay - PCB Manufacturing and Assembly
+![PCBWay](./Images/pcbway.png)
 This project was proudly sponsored by **PCBWay**, a leading PCB manufacturer and assembler. They provided high-quality PCB manufacturing and assembly services, ensuring that the RP2040 Motion Logger board was produced to the highest standards. Here’s why PCBWay is a great choice for PCB production:
 
 - **Exceptional Quality**: The PCBs produced by PCBWay have excellent build quality, with precise soldering and thorough assembly.
@@ -44,9 +57,9 @@ This project was proudly sponsored by **PCBWay**, a leading PCB manufacturer and
 - **Comprehensive Services**: From prototyping to mass production, PCBWay provides services for all stages of PCB development, including multi-layer PCBs, advanced PCBs, flexible PCBs, and assembly services.
 - **Affordable Pricing**: PCBWay offers competitive pricing without compromising quality.
   
-![PCBWay]()
 
-If you’re looking for a reliable partner to bring your PCB projects to life, check out PCBWay [here](https://www.pcbway.com). With their extensive capabilities and top-notch customer support, PCBWay is the ideal choice for makers, engineers, and businesses alike.
+
+If you’re looking for a reliable partner to bring your PCB projects to life, check out PCBWay [here](https://pcbway.com/g/lGOcWf). With their extensive capabilities and top-notch customer support, PCBWay is the ideal choice for makers, engineers, and businesses alike.
 
 ## Testing and Quality Assurance
 The RP2040 Motion Logger has been thoroughly tested and is fully functional. All components, including the IMU, flash memory, and power circuitry, work as expected. PCBWay's manufacturing and assembly have been excellent, with perfect solder joints and overall build quality.
