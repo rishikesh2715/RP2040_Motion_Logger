@@ -12,7 +12,7 @@ The RP2040 Motion Logger is a custom microcontroller board based on the RP2040 c
 - **LEDs**: Addressable RGB LED for user indications, plus power status LEDs for both 3.3V and 5V
 - **Connectors**:
   - TC2030 JTAG Connector for programming and debugging
-  - Dual sets of pin headers including UART, I2C, SPI, ADC, and GPIO pins
+  - A set of pin headers including UART, I2C, SPI, ADC, and GPIO pins
 - **Power Supply**: 3.3V buck converter supporting up to 2A current
 - **Additional Features**: Reset and Bootloader buttons, ESD protection, USB Power, Battery Power, and 3.3V Power pins on headers
 
@@ -44,7 +44,7 @@ This project was proudly sponsored by **PCBWay**, a leading PCB manufacturer and
 - **Comprehensive Services**: From prototyping to mass production, PCBWay provides services for all stages of PCB development, including multi-layer PCBs, advanced PCBs, flexible PCBs, and assembly services.
 - **Affordable Pricing**: PCBWay offers competitive pricing without compromising quality.
   
-![PCBWay](https://www.pcbway.com/ad/resource/logo/logo3.png)
+![PCBWay]()
 
 If you’re looking for a reliable partner to bring your PCB projects to life, check out PCBWay [here](https://www.pcbway.com). With their extensive capabilities and top-notch customer support, PCBWay is the ideal choice for makers, engineers, and businesses alike.
 
