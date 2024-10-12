@@ -36,7 +36,7 @@ You can program the board through the USB Type-C connector or the TC2030 JTAG Co
 - **GPIO**: Multiple general-purpose pins for digital I/O
 - **Power Pins**: USB Power, Battery Power, 3.3V Power
 
-## Advertisement: PCBWay - PCB Manufacturing and Assembly
+## PCBWay - PCB Manufacturing and Assembly
 This project was proudly sponsored by **PCBWay**, a leading PCB manufacturer and assembler. They provided high-quality PCB manufacturing and assembly services, ensuring that the RP2040 Motion Logger board was produced to the highest standards. Here’s why PCBWay is a great choice for PCB production:
 
 - **Exceptional Quality**: The PCBs produced by PCBWay have excellent build quality, with precise soldering and thorough assembly.
