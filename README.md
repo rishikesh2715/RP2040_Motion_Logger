@@ -11,7 +11,7 @@
   </div>
 </p>
 
-*I have slightly modified the board to include a bootloader button and made some aesthetic changes. Thus, the produced board slightly looks different. Everything else remains the same*
+*I have slightly modified the board to include a bootloader button and made some aesthetic changes since having this board produced. Thus, the produced board slightly looks different. Everything else remains the same*
 
 ## Order this Board Through [PCBway](https://www.pcbway.com) 🛫
 
