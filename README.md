@@ -12,7 +12,7 @@
 </p>
 
 
-## Order this Board Through PCBway 🛫
+## Order this Board Through [PCBway](https://www.pcbway.com) 🛫
 
 You can order this board through PCBway for excellent board quality and fast shipping at a very affordable rate. 
 
@@ -24,6 +24,7 @@ You can order this board through PCBway for excellent board quality and fast shi
 To order, simply upload the zip file to PCBway’s portal, select your preferences,
 set the Min Track/spacing to 6/6 mil and set the min hole size to 0.2mm. Choosing Immersion Gold(ENIG) as the board finish is recommended but not required, and place your order. PCBway’s user-friendly interface allows for easy customization and order tracking from manufacturing to delivery.
 
+You can learn more about PCBway at the end.
 
 
 ## Interactive PCB Viewer
