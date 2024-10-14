@@ -1,13 +1,34 @@
 # RP2040 Motion Logger
 
 <p align="center">
-  <img src="./Images/RP2040_Motion_Logger_TOP.png" alt="Image 1" width="45%">
-  <img src="./Images/RP2040_Motion_Logger_Bottom.png" alt="Image 2" width="45%">
+  <div>
+    <img src="./Images/RP2040_Motion_Logger_TOP.png" alt="Image 1" width="45%">
+    <img src="./Images/RP2040_Motion_Logger_Bottom.png" alt="Image 2" width="45%">
+  </div>
+  <div>
+    <img src="./Images/pcbway_top.JPG" alt="Image 3" width="45%">
+    <img src="./Images/pcbway_bottom.JPG" alt="Image 4" width="45%">
+  </div>
 </p>
+
+
+## Order this Board Through PCBway 🛫
+
+You can order this board through PCBway for excellent board quality and fast shipping at a very affordable rate. 
+
+- Using PCBway as the manufacturer is recommended because the stackup for this board is based on their specifications. The differential impedance for the USB differential pair has been calculated based on PCBway’s stackup, ensuring that the board will perform as intended when manufactured with them.
+
+- The Bill of Materials (BOM) provided is in PCBway's format. This compatibility ensures a smooth and reliable production experience, reducing the chances of delays due to part sourcing.
+
+
+To order, simply upload the zip file to PCBway’s portal, select your preferences,
+set the Min Track/spacing to 6/6 mil and set the min hole size to 0.2mm. Choosing Immersion Gold(ENIG) as the board finish is recommended but not required, and place your order. PCBway’s user-friendly interface allows for easy customization and order tracking from manufacturing to delivery.
+
+
 
 ## Interactive PCB Viewer
 
-You can watch this board interactively on [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Frishikesh2715%2FRP2040_Motion_Logger).
+You can view this board interactively on [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Frishikesh2715%2FRP2040_Motion_Logger).
 
 
 
@@ -41,12 +62,9 @@ You can program the board through the USB Type-C connector or the TC2030 JTAG Co
 4. **Data Logging**: Use the IMU and available storage to log motion data, or extend functionality via UART, I2C, SPI, and ADC pins.
 
 ## Hardware Pinout
-- **UART**: TX, RX
-- **I2C**: SDA, SCL
-- **SPI**: MISO, MOSI, SCK, SS
-- **ADC**: 4 ADC-capable pins
-- **GPIO**: Multiple general-purpose pins for digital I/O
-- **Power Pins**: USB Power, Battery Power, 3.3V Power
+![Pinout](./Images/RP2040_Motion_Logger_Pinout.png)
+
+*Note* In reality All the RP2040's GPIO Pins are capable of I2C, UART, SPI communications but I have intenionaly left some of the pins blank in the PINOUT diagram whenever I did not had a whole set of communication pins.
 
 ## PCBWay - PCB Manufacturing and Assembly
 ![PCBWay](./Images/pcbway.png)
@@ -61,8 +79,7 @@ This project was proudly sponsored by **PCBWay**, a leading PCB manufacturer and
 
 If you’re looking for a reliable partner to bring your PCB projects to life, check out PCBWay [here](https://pcbway.com/g/lGOcWf). With their extensive capabilities and top-notch customer support, PCBWay is the ideal choice for makers, engineers, and businesses alike.
 
-## Testing and Quality Assurance
-The RP2040 Motion Logger has been thoroughly tested and is fully functional. All components, including the IMU, flash memory, and power circuitry, work as expected. PCBWay's manufacturing and assembly have been excellent, with perfect solder joints and overall build quality.
+
 
 ## License
 This project is open-source, licensed under the MIT License. Feel free to modify and distribute as per the license terms.
